@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @SamayaA
-- 👀 I’m interested in backend development in Python.
+- 👋 Hi, I’m @SamayaA . I have bachelor's degree in Computer Science (SMTU).
+- 👀 I’m interested in backend development in Python.  I work with:
+  * **Django**
+  * **DRF**
+  * **Pytest, unittest.**
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 
 <!---
