@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SamayaA . I have bachelor's degree in Computer Science (SMTU).
-- 👀 I’m interested in backend development in Python.  I work with:
+- 👋 Hi, I’m @SamayaA . I have bachelor's degree in Computer Science.
+- 👀 Python backend developer. I work with:
   * **Django**
   * **DRF**
   * **Pytest, unittest.**
-- 🌱 I’m currently learning JavaScript.
+- I’m currently learning JavaScript.
 <br/>[HTML and CSS projects on CodePen](https://codepen.io/SamayaAsad)
 
 <!---
